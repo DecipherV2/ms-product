@@ -1,6 +1,6 @@
-package tn.esprit.mscourse.Service;
+package tn.esprit.msproduct.Service;
 
-import tn.esprit.mscourse.Entity.Produit;
+import tn.esprit.msproduct.Entity.Produit;
 
 import java.util.List;
 import java.util.Optional;

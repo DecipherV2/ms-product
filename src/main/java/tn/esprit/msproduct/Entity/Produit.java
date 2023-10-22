@@ -1,4 +1,4 @@
-package tn.esprit.mscourse.Entity;
+package tn.esprit.msproduct.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

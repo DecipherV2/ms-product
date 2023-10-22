@@ -1,10 +1,10 @@
-package tn.esprit.mscourse.Controller;
+package tn.esprit.msproduct.Controller;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import tn.esprit.mscourse.Entity.Produit;
-import tn.esprit.mscourse.Service.ProduitService;
+import tn.esprit.msproduct.Entity.Produit;
+import tn.esprit.msproduct.Service.ProduitService;
 
 import java.util.List;
 @CrossOrigin(origins = "http://localhost:3000")

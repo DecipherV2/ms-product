@@ -1,10 +1,10 @@
-package tn.esprit.mscourse.Service;
+package tn.esprit.msproduct.Service;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import tn.esprit.mscourse.Entity.Produit;
-import tn.esprit.mscourse.Repository.ProduitRepository;
+import tn.esprit.msproduct.Entity.Produit;
+import tn.esprit.msproduct.Repository.ProduitRepository;
 
 import java.util.List;
 import java.util.Optional;
